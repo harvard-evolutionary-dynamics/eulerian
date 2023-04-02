@@ -4,7 +4,8 @@
 
 # eulerian
 
-Some code for the paper "Newell-Littlewood numbers" - [https://arxiv.org/abs/2005.09012](https://arxiv.org/abs/2005.09012)
+Some code for conjectures about Eulerian directed graphs and their absorption time
+in the birth-death process.
 
 ## Install
 
@@ -25,5 +26,5 @@ or use `update-alternatives`.
 Read [this document](https://cliutils.gitlab.io/modern-cmake/chapters/basics/structure.html) to understand the project
 layout.
 
-**Author**: David Brewster - `david (last initial) 2 (at) illinois (dot) edu`
+**Author**: David Brewster
 
